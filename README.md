@@ -38,7 +38,7 @@ Component phù hợp sử dụng trong các ứng dụng mobile như:
 - Lớp:D18CNPM4
 - Mã Sinh Viên:23810310184
 ## Kết Quả
-<img width="869" height="1884" alt="image" src="https://github.com/user-attachments/assets/abd4791f-3f71-4ee1-bf32-f7507a7acfb7" />
+<img width="500" height="1884" alt="image" src="https://github.com/user-attachments/assets/abd4791f-3f71-4ee1-bf32-f7507a7acfb7" />
 
 ## Cài đặt
 Đảm bảo bạn đã cài đặt môi trường React Native hoặc Expo.
