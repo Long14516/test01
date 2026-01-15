@@ -25,7 +25,6 @@ Component phù hợp sử dụng trong các ứng dụng mobile như:
 - 👆 Ẩn bàn phím khi chạm ra ngoài
 - 🔒 Nút "Tiếp Tục" đang ở trạng thái `disabled` (có thể bật khi validate dữ liệu)
 
----
 
 ## Cấu trúc giao diện
 - Tiêu đề: **Đăng Nhập**
