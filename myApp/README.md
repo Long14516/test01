@@ -8,7 +8,7 @@ Component phù hợp sử dụng trong các ứng dụng mobile như:
 - Ứng dụng đăng nhập bằng OTP
 - Ứng dụng yêu cầu nhập số điện thoại
 
----
+
 
 ## Công nghệ sử dụng
 - React Native
@@ -17,7 +17,7 @@ Component phù hợp sử dụng trong các ứng dụng mobile như:
 - TouchableWithoutFeedback
 - Platform API
 
----
+
 
 ## Tính năng chính
 - ⌨️ Tự động tránh bàn phím khi nhập liệu
@@ -33,7 +33,7 @@ Component phù hợp sử dụng trong các ứng dụng mobile như:
 - Ô nhập số điện thoại
 - Nút **Tiếp Tục**
 
----
+
 ## Thông tin
 - Họ tên: Ngô Hoàng Long
 - Lớp:D18CNPM4
