@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# KeyboardAvoidingComponent – Màn hình Đăng Nhập bằng Số Điện Thoại
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Giới thiệu
+`KeyboardAvoidingComponent` là một component React Native dùng để tạo màn hình **Đăng nhập / Đăng ký bằng số điện thoại**, có hỗ trợ **tự động đẩy giao diện khi bàn phím xuất hiện** nhằm tránh che ô nhập liệu.
 
-## Get started
+Component phù hợp sử dụng trong các ứng dụng mobile như:
+- Ứng dụng bất động sản
+- Ứng dụng đăng nhập bằng OTP
+- Ứng dụng yêu cầu nhập số điện thoại
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## Công nghệ sử dụng
+- React Native
+- KeyboardAvoidingView
+- TextInput
+- TouchableWithoutFeedback
+- Platform API
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## Tính năng chính
+- ⌨️ Tự động tránh bàn phím khi nhập liệu
+- 📱 Nhập số điện thoại với `keyboardType="phone-pad"`
+- 👆 Ẩn bàn phím khi chạm ra ngoài
+- 🔒 Nút "Tiếp Tục" đang ở trạng thái `disabled` (có thể bật khi validate dữ liệu)
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Cấu trúc giao diện
+- Tiêu đề: **Đăng Nhập**
+- Mô tả hướng dẫn người dùng
+- Ô nhập số điện thoại
+- Nút **Tiếp Tục**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
+## Thông tin
+-Họ tên: Ngô Hoàng Long
+-Lớp:D18CNPM4
+-Mã Sinh Viên:23810310184
+## Kết Quả
+<img width="869" height="1884" alt="image" src="https://github.com/user-attachments/assets/abd4791f-3f71-4ee1-bf32-f7507a7acfb7" />
 
-## Get a fresh project
-
-When you're ready, run:
+## Cài đặt
+Đảm bảo bạn đã cài đặt môi trường React Native hoặc Expo.
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+npm install
+# hoặc
+yarn install
